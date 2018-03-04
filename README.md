@@ -1,2 +1,4 @@
-# wac_practical_javascript
-Watch and Code - Practical Todos (Javascript)
+#Watch and Code - Practical Todos (Javascript)
+https://watchandcode.com/
+
+Really clear and concise.
